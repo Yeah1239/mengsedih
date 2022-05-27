@@ -25,8 +25,8 @@ print "TEAM     : JogjaXploit"
 print "Thanks   : All Member JogjaXploit "
 print "Tingkat  : Newbie Galau"
 print
-ip = raw_input("IP Target : ")
-port = input("Port       : ")
+ip = raw_input("20.248.206.238")
+port = input("7777")
 
 os.system("clear")
 os.system("figlet Attack Starting")
